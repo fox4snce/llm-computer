@@ -71,7 +71,7 @@ This project is an experimental exploration of operating system principles appli
 
 ## Contributing
 
-This project is in its early stages and is primarily for educational and experimental purposes. However, ideas and contributions are welcome! Please open an issue or submit a pull request if you have suggestions for improvements or new features.
+This project is in its early stages and is primarily for educational and experimental purposes. I'm unlikely to go much further with it, feel free to fork it and play around!
 
 ## License
 
